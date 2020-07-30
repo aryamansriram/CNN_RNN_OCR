@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data/
+im2latex_formulas.lst
+im2latex_train.lst
+im2latex_validate.lst
